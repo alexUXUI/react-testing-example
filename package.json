@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest-axe": "^4.1.0",
+    "prettier": "^2.1.2"
   }
 }
